@@ -1,0 +1,14 @@
+@import url("//fonts.googleapis.com/css?family=Cinzel&display=swap");
+
+h1{
+	text-align: center;
+	font-size: 60px;
+        font-style: italic;
+        font-family: 'Cinzel', serif;
+        color: #ad1d28
+}
+
+#typeInput{
+	font-size: 20px;
+	font-style: bold;
+}
